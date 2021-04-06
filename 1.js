@@ -21,5 +21,6 @@ $.ajax({
   
     }
   
-    console.log(result)
+    // console.log(result)
+    console.log(JSON.stringify(result))
   }
